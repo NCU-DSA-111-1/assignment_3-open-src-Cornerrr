@@ -1,0 +1,5 @@
+C:/Users/Max Liu/NCU_Documents/DSA_project/arcd/build/CMakeFiles/INSTALL.dir
+C:/Users/Max Liu/NCU_Documents/DSA_project/arcd/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Max Liu/NCU_Documents/DSA_project/arcd/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Max Liu/NCU_Documents/DSA_project/arcd/build/arcd/CMakeFiles/arcd.dir
+C:/Users/Max Liu/NCU_Documents/DSA_project/arcd/build/arcd/CMakeFiles/INSTALL.dir
