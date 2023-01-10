@@ -1,2 +1,2 @@
-# Arithmetic Encoding vs. Huffman Encoding
+# Arithmetic Coding vs. Huffman Coding
 
