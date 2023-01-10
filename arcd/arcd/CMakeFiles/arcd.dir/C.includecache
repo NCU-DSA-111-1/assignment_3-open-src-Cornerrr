@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Max Liu/NCU_Documents/arcd/arcd/arcd.c
+assert.h
+-
+arcd.h
+/mnt/c/Users/Max Liu/NCU_Documents/arcd/arcd/arcd.h
+
+/mnt/c/Users/Max Liu/NCU_Documents/arcd/arcd/arcd.h
+
