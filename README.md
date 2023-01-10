@@ -1,6 +1,6 @@
 # Arithmetic Coding vs. Huffman Coding
-Arithmetic coding can treat the whole symbols in a list or in a message as one unit . Unlike Huffman coding, </br>
-arithmetic coding doesn´t use a discrete number of bits for each. </br>
+Arithmetic coding can treat the whole symbols in a list or in a message as one unit . </br>
+Unlike Huffman coding, arithmetic coding doesn´t use a discrete number of bits for each. </br>
 The number of bits used to encode each symbol varies according to the probability assigned to that symbol.
 
 ## Compile && Run
